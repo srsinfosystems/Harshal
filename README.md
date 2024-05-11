@@ -16,22 +16,22 @@ My expertise spans across various domains:
 🔧 Setup and configuration of MySQL servers for database management and optimization, ensuring data integrity and performance.<br>
 🖥️‍🔧 Managed VMware environments, including setup, configuration, and troubleshooting of virtual machines and networking.<br>
 
-Skills:
+Skills:<br><br>
 
-Ubuntu Server Setup
-Git Setup with CI/CD
-AWS and Digital Ocean Management
-Kubernetes Deployment
-Python Programming
-Bash Script Development
-Domain Configuration
-SSL Installation
-Subdomain Setup
-Email Setup
-Apache and Nginx Configuration
-MySQL Server Setup
-VMware Setup and Configuration
-
+Ubuntu Server Setup<br>
+Git Setup with CI/CD<br>
+AWS and Digital Ocean Management<br>
+Kubernetes Deployment<br>
+Python Programming<br>
+Bash Script Development<br>
+Domain Configuration<br>
+SSL Installation<br>
+Subdomain Setup<br>
+Email Setup<br>
+Apache and Nginx Configuration<br>
+MySQL Server Setup<br>
+VMware Setup and Configuration<br>
+<br><br><br>
 
 <b>Welcome to my professional portfolio— a showcase of skills, achievements, and a journey of continuous growth in IT Development.</b>
 
