@@ -40,9 +40,8 @@ VMware Setup and Configuration<br>
 
 <b>Project Description</b>
 
-Time Tracking Software which provides easy timesheet, Workdiary and make team management easy. Watch each activity of employee on one platform.
+Time Tracking Software which provides easy timesheet, Workdiary and make team management easy. Watch each activity of employee on one platform. I was involved to setup Apache server, niginix load balancer, CI/CD and mysql server
 
-<b>Build in Cake PHP</b>
 
 <table>
   <tr>
