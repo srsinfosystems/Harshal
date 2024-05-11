@@ -1,7 +1,7 @@
 # Harshal Patil
 <img src="https://www.teamob.ai/images/harshal.gif">
 
-<b>Welcome! I'm Harshal Patil, Highly skilled and experienced BCA graduate with over 4 years of professional experience. Proven expertise in Ubuntu server setup, Git setup with CI/CD, AWS and Digital Ocean management, Kubernetes deployment, Python programming, bash script development, domain configuration, SSL installation, subdomain setup, email setup, Apache and Nginx configuration, MySQL server setup, and VMware setup and configuration.
+<b>Welcome! I'm Harshal Patil, Highly skilled and experienced BCA graduate with over 4 years of professional experience. Proven expertise in Ubuntu server setup, Git setup with CI/CD, AWS and Digital Ocean management, Kubernetes deployment, Python programming, bash script development, domain configuration, SSL installation, subdomain setup, email setup, Apache and Nginx configuration, MySQL server setup, and VMware setup and configuration.</b>
 
 My expertise spans across various domains:
 
