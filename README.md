@@ -5,16 +5,16 @@
 
 My expertise spans across various domains:
 
-🖥️ Setup and maintenance of Ubuntu servers for various projects, ensuring optimal performance and security.
-🔗 Implemented Git setup with Continuous Integration/Continuous Deployment (CI/CD) pipelines to automate the software development process, leading to increased efficiency and productivity.
-☁️ Managed AWS and Digital Ocean infrastructure, including deployment, scaling, and monitoring of cloud-based services.
-☸️ Deployed and managed Kubernetes clusters for containerized applications, enabling seamless scalability and orchestration.
-🐍 Developed Python scripts for automation tasks, improving workflow efficiency and reducing manual effort.
-💻 Created and maintained bash scripts for various system administration tasks, enhancing server management capabilities.
-🌐 Configured domains, installed SSL certificates, and set up subdomains and email services for clients, ensuring secure and reliable website hosting.
-⚙️ Expertise in Apache and Nginx configuration for web server optimization and customization according to project requirements.
-🔧 Setup and configuration of MySQL servers for database management and optimization, ensuring data integrity and performance.
-🖥️‍🔧 Managed VMware environments, including setup, configuration, and troubleshooting of virtual machines and networking.
+🖥️ Setup and maintenance of Ubuntu servers for various projects, ensuring optimal performance and security.<br>
+🔗 Implemented Git setup with Continuous Integration/Continuous Deployment (CI/CD) pipelines to automate the software development process, leading to increased efficiency and productivity.<br>
+☁️ Managed AWS and Digital Ocean infrastructure, including deployment, scaling, and monitoring of cloud-based services.<br>
+☸️ Deployed and managed Kubernetes clusters for containerized applications, enabling seamless scalability and orchestration.<br>
+🐍 Developed Python scripts for automation tasks, improving workflow efficiency and reducing manual effort.<br>
+💻 Created and maintained bash scripts for various system administration tasks, enhancing server management capabilities.<br>
+🌐 Configured domains, installed SSL certificates, and set up subdomains and email services for clients, ensuring secure and reliable website hosting.<br>
+⚙️ Expertise in Apache and Nginx configuration for web server optimization and customization according to project requirements.<br>
+🔧 Setup and configuration of MySQL servers for database management and optimization, ensuring data integrity and performance.<br>
+🖥️‍🔧 Managed VMware environments, including setup, configuration, and troubleshooting of virtual machines and networking.<br>
 
 Skills:
 
